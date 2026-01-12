@@ -40,7 +40,7 @@ The extension is fully functional for all users. The only difference:
 | | Free | Paid |
 |---|---|---|
 | All features | Yes | Yes |
-| Download limit | Limited per day | Unlimited |
+| Download limit | 3 per 2 hours | Unlimited |
 
 [Get Unlimited Downloads](https://vd-ofa-website.vercel.app/pricing)
 
