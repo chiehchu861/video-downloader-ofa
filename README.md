@@ -18,7 +18,8 @@ One-click video downloads from any website. Smart detection, multiple quality op
 - **Multiple Quality Options** - Choose from available resolutions
 - **HLS/DASH Support** - Download streaming content
 - **Chrome & Edge Support** - Works on both major browsers
-- **Pro Features** - Batch downloads, audio extraction, and more
+- **Batch Downloads** - Download multiple videos at once
+- **Audio Extraction** - Extract audio from videos
 
 ## Installation
 
@@ -32,6 +33,17 @@ One-click video downloads from any website. Smart detection, multiple quality op
 3. Click the extension icon
 4. Select quality and download
 
+## Free vs Paid
+
+The extension is fully functional for all users. The only difference:
+
+| | Free | Paid |
+|---|---|---|
+| All features | Yes | Yes |
+| Download limit | Limited per day | Unlimited |
+
+[Get Unlimited Downloads](https://vd-ofa-website.vercel.app/pricing)
+
 ## Support
 
 Having issues? Here's how to get help:
@@ -39,17 +51,6 @@ Having issues? Here's how to get help:
 1. Check the [Wiki](../../wiki) for documentation and troubleshooting guides
 2. Search [Discussions](../../discussions) for similar questions
 3. Start a new discussion if you need assistance
-
-## Pro License
-
-Unlock premium features with a Pro license:
-
-- Batch downloads
-- Audio extraction
-- Segment downloads
-- Priority support
-
-[Get Pro](https://vd-ofa-website.vercel.app/pricing)
 
 ## Contributing
 
