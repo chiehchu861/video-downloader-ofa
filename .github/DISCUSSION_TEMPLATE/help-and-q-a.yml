@@ -1,0 +1,68 @@
+title: "[Help] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before asking
+        Please check the [Wiki](../../wiki) for common solutions.
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: Which browser are you using?
+      options:
+        - Chrome
+        - Edge
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Extension Version
+      description: Find it in extension settings
+      placeholder: "e.g., 1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      description: The website where you're having issues (if applicable)
+      placeholder: "e.g., https://example.com"
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your issue
+      description: What's happening? What did you expect?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. See error...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have checked the Wiki for similar issues
+          required: true
+        - label: I have searched existing discussions
+          required: true
